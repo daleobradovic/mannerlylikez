@@ -405,12 +405,26 @@ body{overflow-x: hidden; font-family: 'Electrolize', sans-serif;}
         ul{
             width: 100%;
             float: left;
+            li.menu-item-14 {
+              background-image: url('images/nav_3.jpg');
+              background-position: center center;
+              background-size: 100% 100%;
+            }
+            li.menu-item-15 {
+              background-image: url('images/nav_1.jpg');
+              background-position: center center;
+              background-size: contain;
+            }
+            li.menu-item-16 {
+              background-image: url('images/nav_2.jpg');
+              background-position: center center;
+              background-size: contain;
+            }
             li{
                 float: left;
                 width: 33.3334%;
                 text-align: center;
-                border: 1px solid #000;
-                min-height: 150px;
+                min-height: 378px;
                 display: table;
                 background: #999;
                 a{

@@ -525,12 +525,26 @@ body {
   width: 100%;
   float: left;
 }
+#header_w #navigation ul li.menu-item-14 {
+  background-image: url("images/nav_3.jpg");
+  background-position: center center;
+  background-size: 100% 100%;
+}
+#header_w #navigation ul li.menu-item-15 {
+  background-image: url("images/nav_1.jpg");
+  background-position: center center;
+  background-size: contain;
+}
+#header_w #navigation ul li.menu-item-16 {
+  background-image: url("images/nav_2.jpg");
+  background-position: center center;
+  background-size: contain;
+}
 #header_w #navigation ul li {
   float: left;
   width: 33.3334%;
   text-align: center;
-  border: 1px solid #000;
-  min-height: 150px;
+  min-height: 378px;
   display: table;
   background: #999;
 }

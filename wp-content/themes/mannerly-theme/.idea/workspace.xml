@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc33a0cc-1d1d-45b6-81a5-65644737062d" name="Default" comment="" />
+    <list default="true" id="cc33a0cc-1d1d-45b6-81a5-65644737062d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../plugins/duplicator/views/packages/list-nodata.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../plugins/duplicator/views/packages/list.base.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../plugins/duplicator/views/packages/new1.base.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../plugins/duplicator/views/packages/new1.inc.form.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../plugins/duplicator/views/packages/new2.base.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../plugins/duplicator/views/packages/new3.base.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../languages/de_DE.mo" afterPath="$PROJECT_DIR$/../../languages/de_DE.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/Thumbs.db" afterPath="$PROJECT_DIR$/images/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../languages/admin-de_DE.po" afterPath="$PROJECT_DIR$/../../languages/admin-de_DE.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../languages/de_DE.po" afterPath="$PROJECT_DIR$/../../languages/de_DE.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../plugins/duplicator/classes/package.database.php" afterPath="$PROJECT_DIR$/../../plugins/duplicator/classes/package.database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../plugins/duplicator/classes/package.php" afterPath="$PROJECT_DIR$/../../plugins/duplicator/classes/package.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../plugins/duplicator/define.php" afterPath="$PROJECT_DIR$/../../plugins/duplicator/define.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../plugins/duplicator/duplicator.php" afterPath="$PROJECT_DIR$/../../plugins/duplicator/duplicator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../plugins/duplicator/installer/build/ajax.step2.php" afterPath="$PROJECT_DIR$/../../plugins/duplicator/installer/build/ajax.step2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../plugins/duplicator/installer/build/assets/inc.css.php" afterPath="$PROJECT_DIR$/../../plugins/duplicator/installer/build/assets/inc.css.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../plugins/duplicator/installer/build/main.installer.php" afterPath="$PROJECT_DIR$/../../plugins/duplicator/installer/build/main.installer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../plugins/duplicator/installer/build/view.step1.php" afterPath="$PROJECT_DIR$/../../plugins/duplicator/installer/build/view.step1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../plugins/duplicator/readme.txt" afterPath="$PROJECT_DIR$/../../plugins/duplicator/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../plugins/duplicator/views/packages/main/controller.php" afterPath="$PROJECT_DIR$/../../plugins/duplicator/views/packages/main/controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../plugins/duplicator/views/packages/main/new1.inc.form.php" afterPath="$PROJECT_DIR$/../../plugins/duplicator/views/packages/main/new1.inc.form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../plugins/duplicator/views/packages/main/packages.php" afterPath="$PROJECT_DIR$/../../plugins/duplicator/views/packages/main/packages.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../plugins/duplicator/views/settings/general.php" afterPath="$PROJECT_DIR$/../../plugins/duplicator/views/settings/general.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../plugins/duplicator/views/tools/cleanup.php" afterPath="$PROJECT_DIR$/../../plugins/duplicator/views/tools/cleanup.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../plugins/duplicator/views/tools/logging.php" afterPath="$PROJECT_DIR$/../../plugins/duplicator/views/tools/logging.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.scss" afterPath="$PROJECT_DIR$/style.scss" />
+    </list>
     <ignored path="mannerly-theme.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -21,48 +50,7 @@
     <favorites_list name="mannerly-theme" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/functions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1649">
-              <caret line="97" column="42" selection-start-line="97" selection-start-column="42" selection-end-line="97" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom_post_types-inc.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/inc/custom_post_types-inc.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="instagram-feed.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../plugins/instagram-feed/instagram-feed.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2788">
-              <caret line="186" column="65" selection-start-line="186" selection-start-column="65" selection-end-line="186" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="757">
-              <caret line="69" column="31" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -119,7 +107,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -154,7 +142,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,6 +196,7 @@
       <updated>1465152539982</updated>
       <workItem from="1465152544475" duration="7837000" />
       <workItem from="1465173259579" duration="146000" />
+      <workItem from="1465932288606" duration="667000" />
     </task>
     <task id="LOCAL-00001" summary="Verzija 1">
       <created>1465173343709</created>
@@ -220,17 +209,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7983000" />
+    <option name="totallyTimeSpent" value="8650000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25799572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -258,13 +247,46 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Verzija 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Verzija 1" />
+    <MESSAGE value="Verzija 1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Verzija 1.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" column="42" selection-start-line="97" selection-start-column="42" selection-end-line="97" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/custom_post_types-inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/instagram-feed/instagram-feed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2788">
+          <caret line="186" column="65" selection-start-line="186" selection-start-column="65" selection-end-line="186" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1649">
@@ -318,9 +340,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1465152328121" expanded="true" signature="94:161" ph="SELECT post_... ${$wpdb-&gt;posts}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -328,23 +347,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1649">
-          <caret line="97" column="42" selection-start-line="97" selection-start-column="42" selection-end-line="97" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inc/custom_post_types-inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -360,6 +362,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="757">
           <caret line="69" column="31" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/custom_post_types-inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="97" column="42" selection-start-line="97" selection-start-column="42" selection-end-line="97" selection-end-column="42" />
           <folding />
         </state>
       </provider>
