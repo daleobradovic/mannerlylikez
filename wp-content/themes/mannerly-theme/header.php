@@ -58,7 +58,6 @@
 <body <?php body_class(); ?>>
 	<header id="header_w">
         <div class="container-box">
-			<h1>Welcome, testing GIT.</h1>
 			<a href="<?php echo home_url(); ?>"><img src="<?php echo get_template_directory_uri(); ?>/images/logo.png"/></a>
             <nav id="navigation" class="">
                 <?php wp_nav_menu( array('theme_location' => 'primary')); ?>
